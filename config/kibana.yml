@@ -109,3 +109,11 @@
 # The default locale. This locale can be used in certain circumstances to substitute any missing
 # translations.
 #i18n.defaultLocale: "en"
+
+
+#xpack.graph.enabled: false 
+#xpack.ml.enabled: false
+xpack.monitoring.enabled: true 
+#xpack.reporting.enabled: false
+#xpack.security.enabled: false
+#xpack.watcher.enabled: false
